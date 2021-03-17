@@ -28,7 +28,7 @@ twitter_username: xxx
 github_username:  xxx
 
 # Build settings
-theme: alembic-jekyll-theme
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
@@ -37,7 +37,7 @@ defaults:
    scope: 
     path: ""
    values: 
-    layout: page
+    layout: default
     author: "Elias Dinas, Vicky Fouka, Daniel Ziblatt"
 
 
