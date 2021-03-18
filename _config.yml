@@ -21,7 +21,7 @@
 title: Study about Germany
 description: >- # this means to ignore newlines until "baseurl:"
   This is a project about social, economic and political issues in Germany. This project is financed by European University Institute (Italy), Stanford University (U.S.A.) and Wissenschaftszentrum Berlin (Germany).
-logo: berlin.jpg
+logo: assets/berlin.jpg
 
 # Build settings
 theme: jekyll-theme-minimal
