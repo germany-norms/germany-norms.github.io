@@ -4,8 +4,6 @@
 
 layout: default
 title: Results
-feature_image: "/berlin.jpg"
-
 ---
 
 Welcome to our study about social, economic and political isses in Germany. Here is where we will communicate the survey results.

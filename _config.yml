@@ -21,24 +21,13 @@
 title: Study about Germany
 email: elias.dinas@eui.eu
 description: >- # this means to ignore newlines until "baseurl:"
-  This project is financed by European University Institute (Italy), Stanford University (U.S.A.) and Wissenschaftszentrum Berlin (Germany).
-baseurl: "project" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: xxx
-github_username:  xxx
+  This is a project about social, economic and political issues in Germany. This project is financed by European University Institute (Italy), Stanford University (U.S.A.) and Wissenschaftszentrum Berlin (Germany).
+
 
 # Build settings
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-
-defaults:
-  -
-   scope: 
-    path: ""
-   values: 
-    layout: default
-    author: "Elias Dinas, Vicky Fouka, Daniel Ziblatt"
 
 
 # Exclude from processing.

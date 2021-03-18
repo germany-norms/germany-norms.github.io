@@ -1,10 +1,6 @@
 ---
 layout: default
 title: About
-aside: true
-permalink: /about/
-author: "Elias Dinas, Vicky Fouka, Daniel Ziblatt"
-feature_image: "/berlin.jpg"
 ---
 
 This is the webpage of the study about social, economic and political issues in Germany.
