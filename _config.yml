@@ -21,6 +21,8 @@
 title: Study about Germany
 description: >- # this means to ignore newlines until "baseurl:"
   This is a project about social, economic and political issues in Germany. This project is financed by European University Institute (Italy), Stanford University (U.S.A.) and Wissenschaftszentrum Berlin (Germany).
+  
+  This study is a collaboration by Elias Dinas, European University Institute (Italy), <elias.dinas@eui.eu>; Vicky Fouka, Stanford University (U.S.), <vfouka@stanford.edu>; Daniel Ziblatt, Harvard University (U.S.) and Wissenschaftszentrum Berlin (Germany), <dziblatt@g.harvard.edu>.
 logo: assets/berlin.jpg
 
 # Build settings
